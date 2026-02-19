@@ -3,8 +3,9 @@ name: resistance-analysis
 description: Analyze opposition to change to understand what is being protected, what anxiety the change activates, and how to work productively with (not against) resistance.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4836
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - resistance-analysis
 - structure
